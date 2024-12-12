@@ -92,7 +92,7 @@ You can now see the version of Terraform that has been downloaded and installed 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733505993662/bd492fd8-c46f-4271-b895-3b513cf44441.png align="center")
 
-<mark>block</mark> —&gt; resource, output, variable, data,etc
+<mark>block</mark> —&gt; resource, output, variable, data, etc.
 
 *Ex.* ***resource***\*&lt;block&gt; &lt;parameter&gt;{\*
 
