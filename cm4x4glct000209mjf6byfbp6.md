@@ -8,11 +8,9 @@ tags: ec2, aws, foreach, devops, blockchain, terraform, instance, locals-block
 
 ---
 
-Use Case on State Management
-
 > Prerequisite: ***To gain a better understanding, it is advisable to read this blog first:*** [***Click here***](https://hashnode.com/post/cm4qj10kx000e09l4fqhhfss3) ***before continuing with this one.***
 > 
-> GitHub: Refer this [repository](https://github.com/Chetan-Mohod/terraform_work).
+> GitHub: Refer this [repository](https://github.com/Chetan-Mohod/terraform_work/tree/main).
 
 ---
 
