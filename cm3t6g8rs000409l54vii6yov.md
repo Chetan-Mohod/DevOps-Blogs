@@ -23,7 +23,7 @@ tags: deployment, kubernetes, k8s, kubernetes-container, replicaset, kubernetes-
 
 **Steps to Setup Kind Clusters Using a Manifest File:**
 
-1. First we need to create a cluster using the manifest file (config.yml).
+1. First we need to create a cluster using the manifest file (config.yml). Refer file from previous blog.
     
 2. Execute below command to create a cluster:
     
