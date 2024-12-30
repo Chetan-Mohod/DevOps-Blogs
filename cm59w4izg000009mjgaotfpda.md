@@ -320,6 +320,17 @@ Application will still works:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735478644435/ec76495c-e87c-4f53-9157-b2403e9bc8df.png align="left")
 
+14. Now we will delete our HPA and reapply `apache-deployment.yml` to change the replicas from 5 back to 1.
+    
+
+```bash
+kubectl delete -f apache-hpa.yml
+
+kubectl apply -f apache-deployment.yml
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735536686698/4e004424-6b96-4777-9565-5f9aa7da3091.png align="left")
+
 **This process shows how Horizontal Pod Auto-Scaling works. I’ll cover VPA in upcoming blog.**
 
 ---
