@@ -231,7 +231,7 @@ sudo -E kubectl port-forward service/apache-service 80:80 --address=0.0.0.0 &
 ```bash
 kubectl get pods -owide
 
-lubectl get pod pod_name
+kubectl get pod pod_name
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735473271263/497fbb8a-c9cd-4a9c-b2bf-7cebd0e21c8e.png align="center")
