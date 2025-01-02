@@ -117,6 +117,14 @@ Although we have 2 worker nodes and the file specifies creating only one pod, ru
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735742512015/d1de7cfd-68e9-4c30-9973-3222ee17059b.png align="center")
 
+3. Now you can delete daemonset-deploy.yml and load-generator pod:
+    
+
+```bash
+ kubectl delete  pod load-generator
+kubectl delete -f daemonset-deploy.yaml
+```
+
 This is how a DaemonSet operates.
 
 ---
