@@ -636,7 +636,6 @@ docker compose down
 
 * You might be wondering how to remember these queries. It's not easy to memorize them. Therefore, we will use Grafana to display all this data. Grafana does not require you to remember queries and will automatically create an impressive dashboard for everything.
     
-
 * We will explore the integration of Prometheus and Grafana in our next blog.
     
 
@@ -646,4 +645,4 @@ docker compose down
 
 **Chetan Mohod ✨**
 
-For more DevOps updates, you can follow me on [**LinkedIn**](https://www.linkedin.com/in/chetanmohod/).
+For more DevOps updates, you can follow me on **👇**
