@@ -1,8 +1,8 @@
 ---
-title: "SpringBoot + Kubernetes StatefulSets: Perfect Combo for Reliable Banking Apps!"
+title: "SpringBoot + Kubernetes StatefulSets: Perfect Combo for Reliable Banking Apps! + Concepts of configMap & Secrets"
 datePublished: Thu Dec 05 2024 12:44:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm4bb7kr9000j08l4fmvr6hg8
-slug: springboot-kubernetes-statefulsets-perfect-combo-for-reliable-banking-apps
+slug: springboot-kubernetes-statefulsets-perfect-combo-for-reliable-banking-apps-concepts-of-configmap-secrets
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733402480928/8d0d0e1e-e138-473c-b3d8-a470cbb2b605.png
 tags: deployment, mysql, kubernetes, services, cluster, kubernetes-container, statefulsets, kubernetes-installation-masternode-workernode-day31, master-node, persistentvolumes
 
